@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+React: Framework JavaScript para a interface do usuário.
+Three.js: Biblioteca JavaScript para renderização 3D.
+Socket.io: Biblioteca JavaScript para comunicação em tempo real.
+Node.js: Servidor para gerenciar as conexões e o estado do jogo.
